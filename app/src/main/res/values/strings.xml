@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+
+    <string name="title_message">Compute the monthly installments
+		of the loan:</string>
+    <string name="borrowed_capital">Borrowed capital ($|€)</string>
+    <string name="borrowed_capital_error_message">You need to enter the
+		borrowed capital!</string>
+    <string name="interest_rate">Annual interest rate (%)</string>
+    <string name="interest_rate_error_message">You need to enter the
+		interest rate!</string>
+    <string name="number_of_installments">Number of monthly installments</string>
+    <string name="number_of_installments_error_message">You need to enter
+		the number of installments!</string>
+    <string name="amount_of_the_installments">Amount of the installments ($|€)</string>
+    <string name="cost_of_the_loan">Cost of the loan ($|€)</string>
+    <string name="enter_button">Enter</string>
+    <string name="reset_button">Reset</string>
+    <string name="display_installments_table_button">Installments table</string>
+    <string name="installment_number">Installment</string>
+    <string name="outstanding_capital">Outstanding capital</string>
+    <string name="interest_repayment">Interests repayment</string>
+    <string name="principal_repayment">Pincipal repayment</string>
+    <string name="installment_amount">Installment amount</string>
+    <string name="title_activity_display_installments_list">Loan Calc - Installments table</string>
+    <string name="help_installments_list">Click on installments for details</string>
+    <string name="preference_file_key">PREFERENCE_FILE_KEY</string>
+    <string name="saved_borrowed_capital">BORROWED_CAPITAL</string>
+    <string name="saved_annual_percentage_rate">ANNUAL_RATE_PERCENTAGE</string>
+    <string name="saved_number_of_installments">NUMBER_OF_INSTALLMENTS</string>
+</resources>
